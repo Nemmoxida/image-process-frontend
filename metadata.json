@@ -1,0 +1,7 @@
+{
+  "name": "Image Augmentation Processing",
+  "description": "High-throughput batch image augmentation and YOLO annotation processor with multipart API submission, live preview, and ZIP export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
